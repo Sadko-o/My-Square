@@ -8,6 +8,6 @@ In the terminal write:
 gcc my_square.c
 ./a.out X Y
 ```
-\ where :\
+where :\
 X is number of columns\
 Y is number of rows
